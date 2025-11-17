@@ -1,5 +1,5 @@
 ---
-title: "Network Data — Flight Network Analysis"
+Title: "Network Data — Flight Network Analysis"
 ---
 
 ## 🌐 Network Data — Flight Network Analysis
